@@ -40,3 +40,12 @@ header h2 {
   right: 0;
   bottom: 0;
   z-index: 999; }
+
+#loginModal .modal-header {
+  background-color: #901cad; }
+
+#loginModal h3 {
+  color: #fff; }
+
+#reserveModal .modal-header {
+  background-color: #17A2B8; }
